@@ -1,5 +1,8 @@
 <h1 align="center">Hola 👋  soy Dairo / CODEMYSTRI ✨ </h1> 
 
+<img width="1211" height="569" alt="image" src="https://github.com/user-attachments/assets/1e827ef7-a865-4815-86d6-44072054258a" />
+
+
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@CODEMYSTERI" /></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/dairo-delgadillo-a2b47825a"/></a>
