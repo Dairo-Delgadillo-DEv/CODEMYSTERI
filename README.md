@@ -1,23 +1,62 @@
 <h1 align="center">Hola 👋  soy Dairo / CODEMYSTRI ✨ </h1> 
 
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@CODEMYSTERI" /></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/dairo-delgadillo-a2b47825a"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/dairo.berrio.79"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 PROFESIONAL EN DEEP LEARNING
+🎓🧠 Profesional en Machine Learning & Deep Learning
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+Especializado en el diseño, entrenamiento y despliegue de modelos de Machine Learning, Deep Learning y sistemas basados en IA. Experiencia aplicando técnicas de visión artificial, NLP y análisis de datos en entornos productivos.
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 Ingeniero de Software con enfoque en Arquitectura y Escalabilidad
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+Más de 3 años de experiencia en el ciclo completo de desarrollo de software, incluyendo:
 
+Diseño de APIs eficientes
+
+Desarrollo backend
+
+Integración continua y automatización de procesos
+
+Implementación de buenas prácticas de calidad, seguridad y mantenibilidad
+
+🐳 Experiencia en Docker, Contenedores y DevOps
+
+Experto en la creación y gestión de entornos basados en contenedores, incluyendo:
+
+Construcción y optimización de Dockerfiles
+
+Orquestación con Docker Compose
+
+Contenedorización de aplicaciones de ML, APIs y servicios web
+
+Integración en pipelines CI/CD para despliegues automatizados
+
+Conocimiento complementario en entornos Linux, WSL y flujos de trabajo DevOps modernos.
+
+🧩 Roles desempeñados
+
+A lo largo de mi trayectoria he trabajado en roles técnicos y de liderazgo, como:
+
+Machine Learning Engineer
+
+Data Scientist / AI Developer
+
+Software Developer
+
+Tech Lead
+
+Arquitecto de Software
+
+Desarrollador freelance
+
+📩 Contacto profesional
 📫 Contacto: **dairodelgadillo302@gmail.com**
 <!--Intro end-->
   </p>
@@ -27,7 +66,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,firebase,git,github,docker,vscode,linux,ai,tensorflow,keras,seaborn,sklearn,matplotlib&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,firebase,git,github,docker,vscode,linux,ai,tensorflow,keras,seaborn,sklearn,matplotlib&theme=light&perline=12" />
   </a>
 </p>
 <br>
