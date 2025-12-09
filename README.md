@@ -13,54 +13,73 @@
 <!--Intro start-->
 
 <p align="left">
-🎓🧠 Profesional en Machine Learning & Deep Learning
+### 🧠 Machine Learning & Deep Learning Engineer | 💻 Software Engineer | 🐳 DevOps & Docker Enthusiast
 
-Especializado en el diseño, entrenamiento y despliegue de modelos de Machine Learning, Deep Learning y sistemas basados en IA. Experiencia aplicando técnicas de visión artificial, NLP y análisis de datos en entornos productivos.
+---
 
-💻 Ingeniero de Software con enfoque en Arquitectura y Escalabilidad
+## 🚀 Especialista en Inteligencia Artificial
 
-Más de 3 años de experiencia en el ciclo completo de desarrollo de software, incluyendo:
+Profesional enfocado en el diseño, entrenamiento y despliegue de modelos de:
 
-Diseño de APIs eficientes
+- **Machine Learning**
+- **Deep Learning**
+- **Visión Artificial (Computer Vision)**
+- **Procesamiento de Lenguaje Natural (NLP)**
+- **Análisis de Datos para entornos productivos**
 
-Desarrollo backend
+---
 
-Integración continua y automatización de procesos
+## 💻 Ingeniero de Software con enfoque en Arquitectura y Escalabilidad
 
-Implementación de buenas prácticas de calidad, seguridad y mantenibilidad
+Con más de **3 años de experiencia** en el ciclo completo de desarrollo de software:
 
-🐳 Experiencia en Docker, Contenedores y DevOps
+- Diseño de **APIs eficientes**
+- Desarrollo **backend**
+- Integración continua (**CI/CD**)
+- Automatización de procesos
+- Implementación de buenas prácticas de:
+  - Calidad de código  
+  - Seguridad  
+  - Mantenibilidad  
+  - Escalabilidad  
 
-Experto en la creación y gestión de entornos basados en contenedores, incluyendo:
+---
 
-Construcción y optimización de Dockerfiles
+## 🐳 Experiencia en Docker, Contenedores y DevOps
 
-Orquestación con Docker Compose
+Experto en la creación y gestión de entornos basados en contenedores:
 
-Contenedorización de aplicaciones de ML, APIs y servicios web
+- Construcción y optimización de **Dockerfiles**
+- Orquestación con **Docker Compose**
+- Contenerización de:
+  - Modelos de Machine Learning  
+  - APIs  
+  - Servicios web  
+- Integración en pipelines **CI/CD** para despliegues automatizados
+- Conocimiento sólido en **Linux**, **WSL** y flujos modernos DevOps
 
-Integración en pipelines CI/CD para despliegues automatizados
+---
 
-Conocimiento complementario en entornos Linux, WSL y flujos de trabajo DevOps modernos.
+## 🧩 Roles desempeñados
 
-🧩 Roles desempeñados
+Experiencia multidisciplinaria en roles técnicos y de liderazgo:
 
-A lo largo de mi trayectoria he trabajado en roles técnicos y de liderazgo, como:
+- Machine Learning Engineer  
+- Data Scientist / AI Developer  
+- Software Developer  
+- Tech Lead  
+- Arquitecto de Software  
+- Desarrollador freelance  
 
-Machine Learning Engineer
+---
 
-Data Scientist / AI Developer
+## 📫 Contacto
 
-Software Developer
+📧 **Email:** dairodelgadillo302@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/dairo-delgadilloborja-a2b47825a  
+🐙 **GitHub:** https://github.com/mystericode  
 
-Tech Lead
-
-Arquitecto de Software
-
-Desarrollador freelance
-
-📩 Contacto profesional
-📫 Contacto: **dairodelgadillo302@gmail.com**
+---
 <!--Intro end-->
   </p>
 <br>
