@@ -1,10 +1,10 @@
-<h1 align="center">Hola 👋  soy Dairo / CODEMYSTRI ✨ </h1> 
+<h1 align="center">Hola 👋  soy Dairo / Dairo-Delgadillo-DEv ✨ </h1> 
 
 <img width="1211" height="569" alt="image" src="https://github.com/user-attachments/assets/1e827ef7-a865-4815-86d6-44072054258a" />
 
 
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@CODEMYSTERI" /></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@Dairo-Delgadillo-DEv" /></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/dairo-delgadillo-a2b47825a"/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/dairo.berrio.79"  /></a>
   </p>
@@ -88,7 +88,7 @@ Experiencia multidisciplinaria en roles técnicos y de liderazgo:
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,firebase,git,github,docker,vscode,linux,ai,tensorflow,keras,seaborn,sklearn,matplotlib&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,firebase,git,github,docker,vscode,linux,ai,tensorflow,keras,pytorch,seaborn,skit-learn,matplotlib&theme=light&perline=12" />
   </a>
 </p>
 <br>
@@ -153,12 +153,12 @@ Experiencia multidisciplinaria en roles técnicos y de liderazgo:
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dairo-Delgadillo-DEv&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dairo-Delgadillo-DEv&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
@@ -168,7 +168,7 @@ Experiencia multidisciplinaria en roles técnicos y de liderazgo:
 <!--- trophy (start) -->
 <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Dairo-Delgadillo-DEv&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
